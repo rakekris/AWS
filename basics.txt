@@ -1,0 +1,4 @@
+
+ECS --> docker
+
+elastic bean stock --> service for hosting
