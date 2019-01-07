@@ -1,0 +1,16 @@
+
+EBS : elastic block store - storage ...attach with EC2.
+create file , run database 
+replicated automatically within its availablity zone to protect from component failure 
+- high availablity (99.999%) and durability, consistent and low latency performance  reliable and secure. scale up/down based on usage.
+
+snapshot - backup - restore - innovate (bring up new EC2)
+
+IOPS : input/output operations per second
+2 types : 
+- SSD (Solid State Drive) : for transactional - DBs and boot volumnes - performance depends on IOPS
+- HDD (Hard Disk Drives) : for throughput intensive workloads  MR & log processing
+
+
+
+
